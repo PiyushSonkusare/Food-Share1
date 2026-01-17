@@ -1,0 +1,7 @@
+{
+  "name": "EcoFeast - Food Surplus Connector",
+  "description": "A high-fidelity mobile-first web app to reduce food waste by connecting donors with NGOs using AI-based freshness verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
